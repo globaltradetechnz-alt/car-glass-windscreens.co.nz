@@ -1,0 +1,22 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/nissan"
+  to = "/nissan.html"
+  status = 200
+
+[[redirects]]
+  from = "/toyota"
+  to = "/toyota.html"
+  status = 200
+
+[[redirects]]
+  from = "/mitsubishi"
+  to = "/mitsubishi.html"
+  status = 200
+
+[[redirects]]
+  from = "/contact-autoglass"
+  to = "/contact-autoglass.html"
+  status = 200
