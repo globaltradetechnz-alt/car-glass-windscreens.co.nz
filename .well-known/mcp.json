@@ -1,0 +1,31 @@
+{
+  "name": "Car Glass Windscreens NZ",
+  "description": "Professional mobile windscreen replacement and auto glass repair services across Auckland, Rodney, Franklin, and Christchurch. 24/7 emergency service available.",
+  "contact": {
+    "phone": "0800 611-731",
+    "email": "tiptopautonz@hotmail.com",
+    "address": "133 Pilkington Road, Panmure, Auckland"
+  },
+  "services": [
+    "windscreen replacement",
+    "stone chip repair",
+    "side window replacement",
+    "rear window replacement",
+    "mobile glass installation",
+    "insurance direct billing"
+  ],
+  "areas": [
+    "Auckland",
+    "Rodney",
+    "Franklin",
+    "Christchurch"
+  ],
+  "hours": "24/7",
+  "urls": {
+    "home": "https://www.car-glass-windscreens.co.nz/",
+    "contact": "https://www.car-glass-windscreens.co.nz/contact-autoglass",
+    "services": "https://www.car-glass-windscreens.co.nz/#services",
+    "makes": "https://www.car-glass-windscreens.co.nz/#makes"
+  },
+  "mcp_version": "1.0"
+}
